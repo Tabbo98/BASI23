@@ -1,0 +1,282 @@
+DOMANDE CHIUSE
+5, Motori
+Quale tipo di motore preferisci?
+a) Motore a benzina
+b) Motore diesel
+c) Motore elettrico
+
+Qual è la caratteristica più importante che cerchi in un motore?
+a) Potenza
+b) Efficienza del carburante
+c) Ridotta emissione di inquinanti
+
+Quale sistema di alimentazione preferisci per un'auto?
+a) Tradizionale (motore a combustione interna)
+b) Ibrido (combina motore a combustione interna ed elettrico)
+c) Elettrico puro (solo motore elettrico)
+
+Quale aspetto consideri più importante nella scelta di un'auto sportiva?
+a) Accelerazione e velocità massima
+b) Maneggevolezza e tenuta di strada
+c) Design e prestigio del marchio
+
+Quale tecnologia futuristica dei motori ti intriga di più?
+a) Veicoli a idrogeno
+b) Veicoli a propulsione nucleare
+c) Veicoli a propulsione ad aria compressa
+
+Quale tipo di cambio preferisci per un'auto?
+a) Manuale
+b) Automatico
+c) Cambio a doppia frizione (DCT)
+
+Quale tipo di motore trovi più ecologicamente sostenibile?
+a) Motore a combustione interna con tecnologia ibrida
+b) Motore elettrico alimentato da batterie ricaricabili
+c) Motore a idrogeno con celle a combustibile
+
+Quale aspetto del motore consideri più importante per un veicolo fuoristrada?
+a) Coppia motrice
+b) Capacità di superare ostacoli
+c) Resistenza e affidabilità
+
+Quale tecnologia di risparmio carburante ti sembra più interessante?
+a) Start-stop automatico
+b) Sistema di recupero dell'energia in frenata
+c) Sistemi di propulsione ibrida
+
+Quale tipo di veicolo preferisci per un lungo viaggio su strada?
+a) Auto berlina
+b) SUV
+c) Veicolo camper o caravan
+
+Quale caratteristica ritieni più importante per un veicolo elettrico?
+a) Autonomia (distanza che può percorrere con una singola carica)
+b) Tempi di ricarica veloci
+c) Presenza di una vasta rete di stazioni di ricarica
+
+Quale tipo di motore ti attira di più per le moto?
+a) Motore a quattro cilindri
+b) Motore a due cilindri
+c) Motore a tre cilindri
+
+Quale aspetto consideri più importante per un veicolo utilitario?
+a) Capacità di carico
+b) Versatilità degli spazi interni
+c) Consumo di carburante ridotto
+
+Quale tipo di motore preferisci per un'auto da corsa?
+a) Motore V8 aspirato
+b) Motore turbo
+c) Motore ibrido ad alte prestazioni
+*
+
+Storia
+Qual è il periodo storico che trovi più affascinante?
+a) Antico (Preistoria, Egiziani, Greci, Romani, ecc.)
+b) Medievale (Ere medievali, Castelli, Cavalieri, ecc.)
+c) Moderno (Rinascimento, Rivoluzione industriale, Guerre mondiali, ecc.)
+
+Quale figura storica ammiri di più?
+a) Leonardo da Vinci
+b) Martin Luther King Jr.
+c) Nelson Mandela
+
+Quale evento storico ritieni abbia avuto l'effetto più significativo sulla società moderna?
+a) Rivoluzione francese
+b) Caduta del muro di Berlino
+c) Rivoluzione industriale
+
+Quale impero antico ritieni sia stato il più influente?
+a) Impero romano
+b) Impero egizio
+c) Impero persiano
+
+Quale scoperta storica ritieni abbia avuto il maggior impatto scientifico?
+a) Teoria dell'evoluzione di Charles Darwin
+b) Leggi del moto di Isaac Newton
+c) Modello atomico di Niels Bohr
+
+Quale personaggio storico ritieni abbia avuto un ruolo chiave nella lotta per i diritti civili?
+a) Mahatma Gandhi
+b) Rosa Parks
+c) Malala Yousafzai
+
+Quale guerra ritieni abbia avuto l'effetto più significativo sulle dinamiche politiche globali?
+a) Seconda guerra mondiale
+b) Guerra fredda
+c) Guerra di indipendenza americana
+
+Quale movimento di liberazione nazionale ritieni abbia avuto il maggior impatto sul panorama mondiale?
+a) Movimento per l'indipendenza dell'India
+b) Movimento per i diritti civili negli Stati Uniti
+c) Movimento anti-apartheid in Sudafrica
+
+Quale conquistatore storico ritieni abbia avuto il dominio più esteso?
+a) Alessandro Magno
+b) Genghis Khan
+c) Napoleone Bonaparte
+
+Quale periodo di grandi esplorazioni ritieni abbia avuto l'impatto più significativo sulla scoperta del mondo?
+a) Età delle scoperte marittime
+b) Esplorazioni vichinghe
+c) Esplorazioni dell'era dei grandi viaggi
+*
+
+Geografia
+Qual è il tuo continente preferito da esplorare?
+a) Europa
+b) Asia
+c) America (Nord, Centrale o Sud)
+
+Quale paese ritieni abbia il paesaggio più spettacolare?
+a) Italia
+b) Nuova Zelanda
+c) Brasile
+
+Quale capitale mondiale ti piacerebbe visitare?
+a) Londra
+b) Tokyo
+c) Città del Messico
+
+Quale regione geografica offre la migliore cucina tradizionale?
+a) Mediterraneo
+b) Asia orientale
+c) America latina
+
+Quale attrazione naturale consideri la più straordinaria?
+a) Grand Canyon
+b) Cascate del Niagara
+c) Montagne delle Ande
+
+Quale città costiera desidereresti visitare?
+a) Sydney
+b) Rio de Janeiro
+c) Barcellona
+
+Quale isola tropicale sogni di esplorare?
+a) Bali
+b) Maldives
+c) Hawaii
+
+Quale caratteristica geografica ritieni abbia un impatto significativo sull'ecosistema?
+a) Fiumi
+b) Montagne
+c) Deserti
+
+Quale paese ha la cultura più diversificata?
+a) India
+b) Sudafrica
+c) Canada
+
+Quale regione del mondo reputi la più ricca di biodiversità?
+a) Amazzonia
+b) Madagascar
+c) Grande barriera corallina
+*
+
+Matematica
+Qual è la tua branca preferita della matematica?
+a) Algebra
+b) Geometria
+c) Calcolo
+
+Quale concetto matematico ti è sembrato più difficile da comprendere?
+a) Funzioni
+b) Statistica
+c) Trigonometria
+
+Quale operazione matematica ritieni più utile nella vita di tutti i giorni?
+a) Addizione
+b) Sottrazione
+c) Moltiplicazione
+
+Quale teorema matematico ti ha colpito di più?
+a) Teorema di Pitagora
+b) Teorema del limite centrale
+c) Teorema di Fermat
+
+Quale ramo della matematica ritieni sia più applicabile alle scienze naturali?
+a) Algebra lineare
+b) Calcolo differenziale
+c) Statistica
+
+Quale figura geometrica ti affascina di più?
+a) Cerchio
+b) Triangolo
+c) Esagono
+
+Quale matematico famoso ammiri di più?
+a) Isaac Newton
+b) Albert Einstein
+c) Carl Friedrich Gauss
+
+Quale teorema di geometria ritieni più interessante?
+a) Teorema di Euclide
+b) Teorema di Thales
+c) Teorema delle bisettrici
+
+Quale concetto matematico ti sembra più astratto ma affascinante?
+a) Numeri complessi
+b) Matrici
+c) Integrali definiti
+
+Quale applicazione della matematica nella vita reale trovi più interessante?
+a) Crittografia
+b) Ottimizzazione dei trasporti
+c) Progettazione di algoritmi
+*
+
+sport, 6
+Quale sport individuale preferisci?
+a) Tennis
+b) Golf
+c) Atletica leggera
+
+Quale sport di squadra ti appassiona di più?
+a) Calcio
+b) Basket
+c) Pallavolo
+
+Quale evento sportivo internazionale segui con maggiore interesse?
+a) Olimpiadi
+b) Coppa del Mondo di calcio
+c) Giochi del Commonwealth
+
+Quale disciplina sportiva ritieni richieda la maggiore resistenza fisica?
+a) Maratona
+b) Ciclismo su strada
+c) Triathlon
+
+Quale atleta consideri un'icona dello sport?
+a) Usain Bolt
+b) Serena Williams
+c) Michael Phelps
+
+Quale sport estremo ti affascina di più?
+a) Surf
+b) Snowboard
+c) Base jumping
+
+Quale sport di combattimento trovi più interessante da seguire?
+a) Boxe
+b) MMA (arti marziali miste)
+c) Judo
+
+Quale sport acquatico trovi più stimolante?
+a) Nuoto
+b) Surf
+c) Canoa/kayak
+
+Quale aspetto dell'atletica ti appassiona di più?
+a) Record del mondo
+b) Giochi olimpici
+c) Storie di successo degli atleti
+
+Quale sport da non contatto preferisci?
+a) Tennis
+b) Golf
+c) Badminton
+*
+
+FINE DOMANDE
