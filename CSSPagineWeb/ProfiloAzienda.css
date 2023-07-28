@@ -1,0 +1,78 @@
+/* Reset dei margini e dei padding per evitare spazi indesiderati */
+body, h1, h2, table {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    color: #6c757d;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #5a6268;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+table h2 {
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+table label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table th {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+table tr:hover {
+    background-color: #f2f2f2;
+}
+
+/* Formattazione dati dell'azienda */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
