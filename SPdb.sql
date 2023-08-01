@@ -355,16 +355,11 @@ CREATE PROCEDURE RispostaDomandaChiusa(
     IN p_emailUtente VARCHAR(30), 
     IN p_idDomanda INT, 
     IN p_risposta VARCHAR(255), 
-    IN p_punteggio INT
+    IN p_punteggio INT,
+    IN p_opzione2 VARCHAR(255),
+    IN p_opzione3 VARCHAR(255)
 )
 BEGIN
-    -- Variabili per recuperare gli altri due testi delle opzioni
-    DECLARE p_opzione2 VARCHAR(255);
-    DECLARE p_opzione3 VARCHAR(255);
-
-    -- Recupera gli altri due testi delle opzioni dalla tabella Opzione
-    SELECT testo INTO p_opzione2 FROM Opzione WHERE id = idDomanda AND testo != risposta LIMIT 1;
-    SELECT testo INTO p_opzione3 FROM Opzione WHERE id = idDomanda AND testo != risposta AND testo != p_opzione2 LIMIT 1;
 
     -- Inserisci i dati nella tabella RispostaChiusa
     INSERT INTO RispostaChiusa (emailUtente, id, scelta, opzione2, opzione3)
